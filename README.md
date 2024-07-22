@@ -10,22 +10,12 @@ Installation
 To install Microbiomformer, follow these steps:
 
 Clone the repository:
-bash
-Copy code
+```console
 git clone https://github.com/yourusername/microbiomformer.git
-Navigate to the project directory:
-bash
-Copy code
 cd microbiomformer
+```
 # Contributing
 We welcome contributions to Microbiomformer! Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Commit your changes.
-Push your branch and create a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 # Acknowledgements
-Special thanks to Dr. Zhong and the research team for their invaluable support and contributions to this project.
+Special thanks to Dr. Zhong and Tianxiao Zhang for model support and the research team for their invaluable support and contributions to this project.
