@@ -221,7 +221,7 @@ Special thanks to:
 
 For questions, issues, or collaborations, please:
 - Open an issue on GitHub
-- Contact: [your-email@domain.com]
+<!-- - Contact: [your-email@domain.com] -->
 
 ## Future Work
 
