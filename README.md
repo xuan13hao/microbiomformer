@@ -192,7 +192,7 @@ We welcome contributions to Microbiomformer! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Citation
+<!-- ## Citation
 
 If you use Microbiomformer in your research, please cite:
 
@@ -203,7 +203,7 @@ If you use Microbiomformer in your research, please cite:
   year={2024},
   url={https://github.com/yourusername/microbiomformer}
 }
-```
+``` -->
 
 ## License
 
